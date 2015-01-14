@@ -1,0 +1,28 @@
+{
+"kits":[
+{
+"name":"Insper",
+"latitude":-23.598871,
+"longitude": -46.676633,
+"qtd":5
+},
+{
+"name":"FMU",
+"latitude":-23.562383,
+"longitude":-46.656350,
+"qtd":50
+},
+{
+"name":"Anhembi Morumbi",
+"latitude":-23.535063,
+"longitude":-46.609772,
+"qtd":35
+},
+{
+"name":"Wizard",
+"latitude":-23.536553,
+"longitude":-46.685307,
+"qtd":12
+}
+]
+}

@@ -1,0 +1,23 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.controlepragas.MainActivity$PlaceholderFragment"
+    android:id="@+id/contGraph"
+    android:orientation="vertical" >
+
+    <Spinner
+        android:id="@+id/spAreas"
+        android:entries="@array/kits"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/btnActionGeofence"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="Button" />
+
+</LinearLayout>

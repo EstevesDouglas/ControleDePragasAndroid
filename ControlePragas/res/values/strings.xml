@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ControlePragas</string>
+    <string name="title_section1">Mapa</string>
+    <string name="title_section2">Gráfico</string>
+    <string name="title_section3">Notificação</string>
+    <string name="title_section4">Cerca</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="kits">
+        <item>Insper</item>
+        <item>FMU</item>
+        <item>Anhenbi Morumbi</item>
+        <item>Wizard</item>
+        <item></item>
+    </string-array>
+
+</resources>
